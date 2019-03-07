@@ -1,8 +1,8 @@
 {
   "name": "funkenjs",
   "version": "1.0.0",
-  "description": "A wrapper around Serialport interfacing the FUnken library",
-  "main": "de/stefas/FumnkenJS.js",
+  "description": "A wrapper around Serialport interfacing the Funken library",
+  "main": "lib/de/stefas/FumnkenJS.js",
   "directories": {
     "doc": "doc"
   },
@@ -16,7 +16,7 @@
     "url": "git+https://github.com/astefas/FunkenJS.git"
   },
   "author": "Alexander Stefas",
-  "license": "ISC",
+  "license": "tbd",
   "bugs": {
     "url": "https://github.com/astefas/FunkenJS/issues"
   },
