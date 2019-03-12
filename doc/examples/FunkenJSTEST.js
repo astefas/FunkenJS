@@ -21,4 +21,3 @@ fnkDev01.on("de.stefas.funken.serial.comportOpened", function(msg){
 fnkDev01.on("de.stefas.funken.serial.comportClosed", function(msg){
   console.log("COMPORT has been closed");
   console.log(msg);
-});
