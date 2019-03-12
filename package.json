@@ -5,7 +5,7 @@
     "serialport": "^7.x.x"
   },
   "description": "A wrapper around Serialport interfacing the Funken library",
-  "main": "lib/de/stefas/FumnkenJS.js",
+  "main": "lib/de/stefas/Funken/FunkenJS.js",
   "directories": {
     "doc": "doc"
   },

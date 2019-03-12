@@ -1,4 +1,4 @@
-var FunkenJS = require('./FunkenJS.js');
+var FunkenJS = require('funkenjs');
 
 var fnkDev01 = new FunkenJS();
 
