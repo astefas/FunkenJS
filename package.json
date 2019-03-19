@@ -4,7 +4,7 @@
   "dependencies": {
     "serialport": "^7.x.x"
   },
-  "description": "A wrapper around Serialport interfacing the Funken library",
+  "description": "A wrapper around Serialport interfacing the Funken Arduino library.",
   "main": "lib/de/stefas/funken/FunkenJS.js",
   "directories": {
     "doc": "doc"
