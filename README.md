@@ -12,7 +12,7 @@ For installing it inside your project locally use : npm install --save-dev
 For installing it globally use : npm install -g 
 
 ## Examples for FunkenJS
-For an example on how to setup event listeners and orchestrate these events please see. When installed globally you could directly transfer that to use in your CLI
+For an example on how to setup event listeners and orchestrate these events please see:
 
 [FunkenJSTEST](https://github.com/astefas/FunkenJS/doc/examples/FunkenJSTEST.js)
 
