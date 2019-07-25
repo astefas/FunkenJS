@@ -7,9 +7,18 @@ Just a NodeJS Javascript class / wrapper around Serialconnection interfacing wit
 FunkenJS is available as a node-module. If you are not familiar with NodeJS please visit [NodeJS](https://nodejs.org/en/)
 
 ### Locally
-For installing it inside your project locally use : npm install --save-dev
+For installing it inside your project locally use :
+
+```
+npm install --save-dev
+```
+
 ### Globally
-For installing it globally use : npm install -g 
+For installing it globally use : 
+
+```
+npm install -g 
+```
 
 ## Examples for FunkenJS
 For an example on how to setup event listeners and orchestrate these events please see:
