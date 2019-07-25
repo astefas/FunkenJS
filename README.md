@@ -17,7 +17,7 @@ For an example on how to setup event listeners and orchestrate these events plea
 [FunkenJSTEST](https://github.com/astefas/FunkenJS/doc/examples/FunkenJSTEST.js)
 
 ## License
-FunkenJS: Wrapper around Serial Protocol Toolkit Arduinolibrary (GPL) initiated by Alexander Stefas
+FunkenJS: Wrapper around Serialconnection for Funken - Serial Protocol Toolkit Arduino library (GPL) initiated by Alexander Stefas
 
 Copyright (c) 2019, Alexander Stefas
 
