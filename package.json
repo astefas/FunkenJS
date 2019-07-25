@@ -1,16 +1,14 @@
 {
   "name": "funkenjs",
   "version": "1.0.0",
-  "dependencies": {
-    "serialport": "^7.x.x"
-  },
-  "description": "A wrapper around Serialport interfacing the Funken Arduino library.",
-  "main": "lib/de/stefas/funken/FunkenJS.js",
+  "description": "A wrapper around Serialport dispatching events within a namespace",
+  "main": "/lib/de/stefas/funken/FunkenJS.js ",
   "directories": {
     "doc": "doc"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "serialport": "^7.1.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,8 +16,15 @@
     "type": "git",
     "url": "git+https://github.com/astefas/FunkenJS.git"
   },
+  "keywords": [
+    "funken",
+    "arduino",
+    "serialport",
+    "physical-computing",
+    "javascript"
+  ],
   "author": "Alexander Stefas",
-  "license": "tbd",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/astefas/FunkenJS/issues"
   },
