@@ -14,7 +14,7 @@ For installing it globally use : npm install -g
 ## Examples for FunkenJS
 For an example on how to setup event listeners and orchestrate these events please see:
 
-[FunkenJSTEST](https://github.com/astefas/FunkenJS/doc/examples/FunkenJSTEST.js)
+[FunkenJSTEST](https://github.com/astefas/FunkenJS/tree/master/doc/examples/)
 
 ## Documentation
 I will document FunkenJS in the future. It is a rather small class and therefore kind of self explaining.
