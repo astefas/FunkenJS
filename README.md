@@ -9,12 +9,10 @@ FunkenJS is available as a node-module. If you are not familiar with NodeJS plea
 ### Locally
 For installing it inside your project locally use : npm install --save-dev
 ### Globally
-For installing it globally use : npm install -g
-
-It is possible ton use FunkenJS on the CLI solely or import it in your software. For instructions how to do that, please check 
+For installing it globally use : npm install -g 
 
 ## Examples for FunkenJS
-For an example on how to setup event listeners and orchestrate these events please see 
+For an example on how to setup event listeners and orchestrate these events please see. When installed globally you could directly transfer that to use in your CLI
 [FunkenJSTEST](https://github.com/astefas/FunkenJS/doc/examples/FunkenJSTEST.js)
 
 ## License
